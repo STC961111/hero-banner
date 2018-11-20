@@ -32,6 +32,16 @@ body {
   bottom: 1.5em;
 }
 
+.card-title {
+  padding: 0 1.5em;
+  position: absolute;
+  max-width: 50em;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 1.2em;
+}
+
 h2 {
 
   margin: 0;
